@@ -2,7 +2,7 @@
 
 Welcome to my journey of mastering **Machine Learning (ML)** and **Data Science (DS)** through hands-on projects. This repo documents my learning path, experiments, and progress as I work on real-world applications, from **supervised learning models** to **ML pipelines** and **computer vision**.
 
-### Target Areas of Focus:
+### Target Areas:
 
 1. **Supervised Learning on Structured Data** (e.g., Regression, Classification)
    - **Why**: With solid experience in cleaning and processing data (via Pandas, SQL), I’m focusing on developing models like **logistic regression, decision trees, random forests**, and **XGBoost**. These skills are central to most data science work and will enhance my ability to predict outcomes, from campaign success to churn and election turnout predictions.
