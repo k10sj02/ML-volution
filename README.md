@@ -27,11 +27,13 @@ Welcome to my journey of mastering **Machine Learning (ML)** and **Data Science 
 - **SQL / Pandas / NumPy**: For data cleaning, manipulation, and scaling.
 - **MLflow / Kubeflow**: For managing and orchestrating ML pipelines.
 - **AWS / GCP / Azure**: For cloud-based data engineering and model deployment.
+- **NLTK / SpaCy / Hugging Face Transformers**: For NLP tasks such as text classification, sentiment analysis, and named entity recognition.
 
 ### Next Steps:
 1. **Supervised Learning**: Dive deeper into regression and classification models using scikit-learn, applying them to current datasets like **campaign data** and **voter turnout predictions**.
 2. **ML Pipelines**: Implement automated pipelines, applying **ETL** and **model deployment** techniques.
 3. **Computer Vision**: Explore basic image processing and classification tasks, such as detecting trends in **voter behavior** or **campaign materials**.
+4. **Natural Language Processing (NLP)**: Experiment with text classification and sentiment analysis using **NLTK**, **SpaCy**, or **Hugging Face Transformers**, applying these techniques to social media data or campaign outreach.
 
 ### Sharpening My Competitive Edge:
 - **Portfolio Projects**: This repo will document all my work, including **predictive modeling**, **ML pipelines**, and **computer vision projects**. Real-world projects like **predicting election turnout** or **campaign optimization** will be great additions to my portfolio.
