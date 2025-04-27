@@ -16,6 +16,10 @@ Welcome to my journey of mastering **Machine Learning (ML)** and **Data Science 
    - **Why**: Starting with basic image classification and object detection can set me apart in industries like healthcare and civic tech, where image analysis plays a key role.
    - **Next Steps**: Working with **OpenCV**, **TensorFlow**, or **PyTorch** to build basic image classification or object detection models.
 
+4. **Natural Language Processing (NLP)**
+  - **Why**: NLP is critical for extracting insights from text data in fields like civic tech, public health, and campaign work. Tasks such as sentiment analysis, text classification, and named entity recognition will complement my work in data science and offer solutions for analyzing social media, healthcare documents, and voter sentiment.
+  - **Next Steps**: Exploring NLTK, SpaCy, and Hugging Face Transformers to perform text classification, sentiment analysis, and named entity recognition using publicly available datasets.
+
 ### Key Tools & Libraries:
 - **Scikit-learn**: For building and evaluating models.
 - **XGBoost / LightGBM**: For advanced tree-based models.
