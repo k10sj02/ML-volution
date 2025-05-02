@@ -114,3 +114,23 @@ Welcome to my journey of mastering **Machine Learning (ML)** and **Data Science 
 * Analyze voter sentiment from social media
 * Classify incoming text responses by intent or emotion
 
+---
+
+### 📚 Supplementary Lessons (Udemy Courses)
+
+To reinforce and expand on core concepts, I’ll be drawing on select modules from:
+
+* **Machine Learning A-Z: AI, Python & R + ChatGPT Prize \[2025]**
+  *Instructors: Kirill Eremenko, Hadelin de Ponteves, SuperDataScience Team*
+
+* **The Data Science Course: Complete Data Science Bootcamp 2025**
+  *Instructor: 365 Careers*
+
+* **NLP - Natural Language Processing with Python**
+  *Instructors: Jose Portilla, Pierian Training*
+
+* [**CS229: Machine Learning by Stanford (Andrew Ng) — Full Lecture Series (YouTube)**](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+* [**CS50’s Introduction to Artificial Intelligence with Python**](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python)
+
+These courses will provide structured walkthroughs and project examples alongside my self-driven exploration.
+
