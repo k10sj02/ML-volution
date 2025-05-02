@@ -132,6 +132,7 @@ To reinforce and expand on core concepts, I’ll be drawing on select modules fr
 * [**CS229: Machine Learning by Stanford (Andrew Ng) — Full Lecture Series (YouTube)**](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 * [**CS50’s Introduction to Artificial Intelligence with Python**](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python)
 * [**Machine Learning for Healthcare**](https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/video_galleries/lecture-videos/)
+* DataCamp
 
 These courses will provide structured walkthroughs and project examples alongside my self-driven exploration.
 
