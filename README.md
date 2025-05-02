@@ -39,3 +39,78 @@ Welcome to my journey of mastering **Machine Learning (ML)** and **Data Science 
 - **Portfolio Projects**: This repo will document all my work, including **predictive modeling**, **ML pipelines**, and **computer vision projects**. Real-world projects like **predicting election turnout** or **campaign optimization** will be great additions to my portfolio.
 - **Networking**: I’ll engage with organizations that focus on **data science for social good** and **civic tech** to leverage my skills in areas like health, public policy, and social impact.
 - **Internships/Contract Work**: Short-term roles will help accelerate my transition into **data science** and **machine learning** while solidifying my skills and expanding my portfolio.
+
+---
+
+### 📅 Month 1: Supervised Learning Foundations
+
+**Focus:** Regression & Classification with Scikit-learn & XGBoost
+**Goals:** Build, evaluate, and interpret models on structured datasets
+
+**Topics & Tools:**
+
+* Linear & Logistic Regression (`scikit-learn`)
+* Decision Trees, Random Forests, XGBoost (`xgboost`)
+* Evaluation metrics: accuracy, precision, recall, ROC
+* Model selection & tuning (GridSearchCV, cross-validation)
+
+**Project Ideas:**
+
+* Predict voter turnout or campaign success
+* Classify text responses from outreach efforts
+
+---
+
+### 📅 Month 2: ML Pipelines & Automation
+
+**Focus:** Data engineering for scalable ML workflows
+**Goals:** Build and automate reproducible ML pipelines
+
+**Topics & Tools:**
+
+* ETL with `SQL`, `Pandas`
+* Orchestration with `Airflow` or `Prefect`
+* Tracking models with `MLflow`
+* Intro to `Docker` and cloud (AWS S3, GCP buckets)
+
+**Project Ideas:**
+
+* Automate voter prediction pipeline end-to-end
+* Build ML pipeline with retraining logic and performance tracking
+
+---
+
+### 📅 Month 3: Intro to Computer Vision
+
+**Focus:** Image classification and object detection basics
+**Goals:** Build a working CV model for civic/health-related tasks
+
+**Topics & Tools:**
+
+* Image preprocessing (`OpenCV`)
+* CNNs using `TensorFlow` or `PyTorch`
+* Pre-trained models (ResNet, MobileNet)
+
+**Project Ideas:**
+
+* Detect poster placement or engagement in campaign media
+* Basic medical image classification
+
+---
+
+### 📅 Month 4: Natural Language Processing (NLP)
+
+**Focus:** Extracting insights from text data
+**Goals:** Perform sentiment analysis and classification
+
+**Topics & Tools:**
+
+* Tokenization, vectorization (`NLTK`, `SpaCy`)
+* Transformers & fine-tuning (`Hugging Face Transformers`)
+* Sentiment analysis, topic modeling, NER
+
+**Project Ideas:**
+
+* Analyze voter sentiment from social media
+* Classify incoming text responses by intent or emotion
+
