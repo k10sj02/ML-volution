@@ -130,7 +130,7 @@ To reinforce and expand on core concepts, I’ll be drawing on select modules fr
   *Instructors: Jose Portilla, Pierian Training*
 
 * [**CS229: Machine Learning by Stanford (Andrew Ng) — Full Lecture Series (YouTube)**](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
-* [**CS50’s Introduction to Artificial Intelligence with Python**](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python)
+* [**CS50’s Introduction to Artificial Intelligence with Python**](https://cs50.harvard.edu/ai/2024/)
 * [**Machine Learning for Healthcare**](https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/video_galleries/lecture-videos/)
 * DataCamp
 
